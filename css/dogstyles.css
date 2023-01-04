@@ -1,9 +1,21 @@
 #Date {
-  font-size: 18px;
+  font-size: 50vw;
   color: red;
 }
 
 .dog {
   font-style: italic;
   font-weight: bold;
+}
+
+.animalSomething {
+  background-color: grey;
+}
+
+.highlight {
+  color: blue;
+}
+
+.fish-type {
+  background-color: rgb(255, 119, 194);
 }
