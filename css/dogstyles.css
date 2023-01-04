@@ -1,6 +1,5 @@
 #Date {
-  font-size: 50vw;
-  color: red;
+  
 }
 
 .dog {
@@ -8,8 +7,8 @@
   font-weight: bold;
 }
 
-.animalSomething {
-  background-color: grey;
+body {
+  background-color: rgba(85, 137, 240, 0.245);
 }
 
 .highlight {
@@ -18,4 +17,22 @@
 
 .fish-type {
   background-color: rgb(255, 119, 194);
+}
+
+img {
+  float: left;
+  width: 30%;
+  height: 30%;
+}
+
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: white;
+  height: 400px;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
