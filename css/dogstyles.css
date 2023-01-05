@@ -61,10 +61,13 @@ padding-left: 5px;
 .test {
   color:red;
   font-style: italic;
+  display: block;
 }
 
 .About-me h2 {
-  font-style: italic
+  font-style: italic;
+  margin: auto;
+  width: 10%;
 }
 
 .About-me p {
@@ -77,7 +80,12 @@ padding-left: 5px;
 
 .dog-img {
   float: right;
-  height: 225px;
+  height: auto;
   margin-top: -35px;
+  display: block;
 }
 
+ul li{
+  margin: auto;
+  width: 20%;
+}
