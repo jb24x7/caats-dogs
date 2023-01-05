@@ -93,7 +93,8 @@ ul li  {
 .animal-shelter {
   float: left;
   width: 400px;
-  
+  border: 1px solid;
+  margin: 2px;
 }
 
 .pitbull-img {
@@ -103,4 +104,12 @@ ul li  {
 .title {
   margin: auto;
   width: 20%;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    background-color: black;
+    color: white;
+}  
+
 }
