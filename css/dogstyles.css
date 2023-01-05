@@ -46,3 +46,16 @@ img {
   border: 4px solid;
   padding: 4px;
 }
+
+.test {
+  color:red;
+  font-style: italic;
+}
+
+.About-me h2 {
+  font-style: italic
+}
+
+.About-me p {
+  font-weight: bolder;
+}
