@@ -36,6 +36,11 @@ img {
   
 }
 
+.sidebar h2 {
+
+  font-style:oblique;
+}
+
 .column {
   width: 300px;
   float: left;
@@ -45,6 +50,7 @@ img {
   box-sizing: border-box;
   border: 4px solid;
   padding: 4px;
+  height: 400px;
 }
 
 .test {
@@ -59,3 +65,14 @@ img {
 .About-me p {
   font-weight: bolder;
 }
+
+.dates {
+  font-weight:bold;
+}
+
+.dog-img {
+  float: right;
+  height: 225px;
+  margin-top: -35px;
+}
+
