@@ -106,7 +106,7 @@ ul li  {
   width: 20%;
 }
 
-@media screen and (max-width: 4000px) {
+@media screen and (max-width: 4000px) and (min-width: 1001px) {
   body {
     background-color: black;
     color: white;
@@ -119,3 +119,4 @@ ul li  {
     background-color: teal;
   }
 }
+
