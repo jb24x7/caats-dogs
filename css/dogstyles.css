@@ -26,15 +26,23 @@ img {
 }
 
 .sidebar {
+  box-sizing: border-box;
   width: 15%;
   float: left;
   background-color: white;
   height: 85vh;
   margin-right: 5%;
+  border: 4px solid;
   
 }
 
 .column {
   width: 300px;
   float: left;
+}
+
+.animalSomething {
+  box-sizing: border-box;
+  border: 4px solid;
+  padding: 4px;
 }
