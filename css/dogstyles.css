@@ -85,7 +85,22 @@ padding-left: 5px;
   display: block;
 }
 
-ul li{
+ul li  { 
+  margin: auto;
+  width: 20%;
+}
+
+.animal-shelter {
+  float: left;
+  width: 400px;
+  
+}
+
+.pitbull-img {
+  float: left;
+}
+
+.title {
   margin: auto;
   width: 20%;
 }
